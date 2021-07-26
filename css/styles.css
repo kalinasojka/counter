@@ -1,0 +1,39 @@
+body {
+	background-color: #f7f7f7;
+}
+
+.counter_container {
+	padding-top: 5vh;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;	
+}
+
+h1 {
+	font-size: 5vh;
+}
+
+.value {
+	font-size: 8vh;
+}
+
+.button-container {
+	padding-top: 2vh;
+}
+
+.btn {
+	border-width: thin;
+	border-color: black;
+}
+
+.blip_container {
+	margin-top: 20vh;
+	height: 50vh;
+	position: relative;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
